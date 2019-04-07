@@ -29,4 +29,4 @@ CONTENTS:<br>
   3_Quick_Check.c<br>
   3.1_Calculating_Interest.c<br>
   3.2_Draw_a_Circle_and_a_Trapezium.c<br>
-  3.3_Calculate_Surface_Area_of_a_Cone<br>
+  3.3_Calculate_Surface_Area_of_a_Cone.c<br>
