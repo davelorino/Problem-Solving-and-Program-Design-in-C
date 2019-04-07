@@ -5,10 +5,10 @@ This repository contains my C programs and solutions to the problems contained i
 'Problem Solving and Program Design in C, Global Edition 2016' 
 by Jeri R. Hanly and Elliot Koffman.
 
-CONTENTS:
-
-1. Introduction (Folder)
-
+CONTENTS:\n
+\n
+1. Introduction (Folder)\n
+\n
 2. Overview of C (Folder)
   Files:
   Quick Check.c
