@@ -9,8 +9,8 @@ CONTENTS:<br>
 1. Introduction (Folder)<br>
 
 2. Overview of C (Folder)<br>
-  Quick Check.c<br>
-  Review Questions.c<br>
+  2_Quick Check.c<br>
+  2_Review Questions.c<br>
   2.1_Taxi_Fare_Calculator.c<br>
   2.2_Electrohydraulic_Dam.c<br>
   2.3_Freezer_Temperature_Estimation.c<br>
@@ -25,4 +25,7 @@ CONTENTS:<br>
   2.12_Acceleration_of_a_Jet_Fighter.c<br>
   2.13_Whole_Sections_of_a_Batch.c<br>
   
-  
+  3. Top-Down Design with Functions<br>
+    3_Quick_Check.c<br>
+    3.1_Calculating_Interest.c
+    3.2_Draw_a_Circle_and_a_Trapezium.c
