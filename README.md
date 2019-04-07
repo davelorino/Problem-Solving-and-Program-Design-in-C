@@ -27,5 +27,5 @@ CONTENTS:<br>
   
   3. Top-Down Design with Functions<br>
     3_Quick_Check.c<br>
-    3.1_Calculating_Interest.c
-    3.2_Draw_a_Circle_and_a_Trapezium.c
+    3.1_Calculating_Interest.c<br>
+    3.2_Draw_a_Circle_and_a_Trapezium.c<br>
