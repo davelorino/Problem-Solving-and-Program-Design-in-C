@@ -1,5 +1,4 @@
 # Problem-Solving-and-Program-Design-in-C
-Solutions to Problem Solving and Program Design in C
 
 This repository contains my C programs and solutions to the problems contained in 
 'Problem Solving and Program Design in C, Global Edition 2016' 
@@ -10,7 +9,6 @@ CONTENTS:<br>
 1. Introduction (Folder)<br>
 
 2. Overview of C (Folder)<br>
-  Files:<br>
   Quick Check.c<br>
   Review Questions.c<br>
   2.1_Taxi_Fare_Calculator.c<br>
