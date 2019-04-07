@@ -21,6 +21,8 @@ int main(){
   int purchase_price, down_payment, amount_borrowed, total_number_of_payments;
   double annual_interest_rate, monthly_interest_rate, payment; 
   
+  double calculatePayment(int monthly_interest, int borrowed, int payments);
+  
   printf("Enter the price of the car>\n");
   scanf("%d", &purchase_price);
   
@@ -37,8 +39,19 @@ int main(){
 
   amount_borrowed = purchase_price - down_payment;
   
-  payment = (monthly_interest_rate * amount_borrowed) / (1 - pow((1 + monthly_interest_rate), (total_number_of_payments * -1)));
-  
+  payment = calculatePayment(monthly_interest_rate, amount_borrowed, total_number_of_payments);
+    
   printf("Amount Borrowed:\t\t$%d\nMonthly Payments:\t\t$%.2lf\n", amount_borrowed, payment);
   
 }
+
+double calculatePayment(int monthly_interest, int borrowed, int payments){
+  double calculatedpayment = (monthly_interest * borrowed) / (1 - pow((1 + monthly_interest), (payments * -1)));
+  return calculatedpayment;
+}
+
+
+
+
+
+
