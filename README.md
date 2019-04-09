@@ -30,3 +30,7 @@ CONTENTS:<br>
   3.1_Calculating_Interest.c<br>
   3.2_Draw_a_Circle_and_a_Trapezium.c<br>
   3.3_Calculate_Surface_Area_of_a_Cone.c<br>
+  3.4_Positive_Factorial.c<br>
+  3.5_Hours_Needed.c<br>
+  3.6_MPS_FPS.c<br>
+  
