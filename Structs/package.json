@@ -1,0 +1,25 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "Testing node osmosis",
+  "main": "index.js",
+  "scripts": {
+    "test": "const osmosis = require('osmosis');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "keywords": [
+    "Node",
+    "scraper"
+  ],
+  "author": "Davide Lorino",
+  "license": "MIT",
+  "dependencies": {
+    "csv-stringify": "^5.3.0",
+    "fs": "0.0.1-security",
+    "json2csv": "^4.4.1",
+    "osmosis": "^1.1.10"
+  }
+}
