@@ -8,12 +8,18 @@
 
 int main(){
   double volume_to_be_infused, minutes_to_infuse, rate, hours;
+  
   printf("Volume to be infused (ml) => ");
   scanf("%lf", &volume_to_be_infused);
+  
   printf("Minutes over which to infuse => ");
   scanf("%lf", &minutes_to_infuse);
+  
   hours = minutes_to_infuse / 60;
+  
   rate = (3 * volume_to_be_infused) / hours;
+  
   printf("\nVTBI: %lf ml\n", volume_to_be_infused);
+  
   printf("Rate: %lf ml/h\n", rate);
 }
