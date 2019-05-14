@@ -32,3 +32,8 @@ CONTENTS:<br>
   10 Six Speed Gearbox<br>
   11 Speed of Sound<br>
   12 Population Size Over Time
+
+3. Selection Structures: if and switch Statements
+
+  1  Student Discount<br>
+  
