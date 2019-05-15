@@ -4,7 +4,7 @@ A collection of C programs I wrote to solve problems in <i>Problem Solving and P
 
 CONTENTS:<br>
 
-1. Overview of C (Folder)<br>
+<b>1. Overview of C</b><br>
   1   Taxi Fare Calculator<br>
   2   Electrohydraulic Dam<br>
   3   Freezer Temperature Estimation<br>
@@ -19,7 +19,7 @@ CONTENTS:<br>
   12 Acceleration of a Jet Fighter<br>
   13 Whole Sections of a Batch<br>
   
-2. Top-Down Design with Functions<br>
+<b>2. Top-Down Design with Functions<br></b>
   1  Calculating Interest<br>
   2  Draw a Circle and a Trapezium<br>
   3  Calculate Surface Area of a Cone<br>
@@ -33,7 +33,8 @@ CONTENTS:<br>
   11 Speed of Sound<br>
   12 Population Size Over Time
 
-3. Selection Structures: if and switch Statements
-
+<b>3. Selection Structures: if and switch Statements<br></b>
   1  Student Discount<br>
-  
+  2  BMI Calculator<br>
+  3  Short-Circuit Evaluation<br>
+  4  Compressed Gas Cylinder<br>

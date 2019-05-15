@@ -53,6 +53,7 @@ int fun1(void){
 int fun2(void){
   char letter;
   printf("Enter a letter\n");
+  fgetc(stdin);
   scanf("%c", &letter);
   
   printf("Testing ||\n");
