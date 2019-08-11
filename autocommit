@@ -1,0 +1,8 @@
+
+tempvar=$(git config --get remote.origin.url)
+
+git add .
+
+git commit -m "Bash Commit"
+
+git push origin master
