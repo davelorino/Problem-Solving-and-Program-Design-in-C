@@ -1,5 +1,6 @@
 /*
- * An internet service provider charges its subscribers every month based on the following:
+ * An internet service provider charges its subscribers every month based 
+ * on the following:
  * 
  * Data Usage (Gbs)          Charges
  * 0.0 < n <= 1.0            250
@@ -8,7 +9,8 @@
  * 5.0 < n <= 10.0           1500
  * n > 10                    2000      
  * 
- * Given the amount of data used by the subscriber (i.e. n), write a program to calculate the charges paid by the subscriber.
+ * Given the amount of data used by the subscriber (i.e. n), write a program 
+ * to calculate the charges paid by the subscriber.
  * 
  * Print a message to indicate bad data as well.
  */
@@ -30,12 +32,12 @@ int main(){
   scanf("%s", data_consumption);
   
   
-  for(i = 0; data_consumption[i] != '\0'; i++){
-  if(data_consumption[i] > 47 && data_consumption[i] < 57){
-    strcpy(data_consumption_clean, data_consumption);
-    data_consumption_int = atoi(data_consumption_clean);
+    for(i = 0; data_consumption[i] != '\0'; i++){
+      if(data_consumption[i] > 47 && data_consumption[i] < 57){
+        strcpy(data_consumption_clean, data_consumption);
+        data_consumption_int = atoi(data_consumption_clean);
+        }
     }
-  }
   
     if(data_consumption_int == 0)
     {
